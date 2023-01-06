@@ -57,3 +57,5 @@ Alternatively you can join my Discord and create a ticket: https://corrosive.eu/
 
 ## License
 This project is written by **[Kaniggel](https://github.com/MyHwu9508)** and **[tomatenbaumful](https://github.com/tomatenbaumful)** and published under **MIT License**
+The designs are inspired from [Forza](https://forza.net/) [NFS 2015](https://store.steampowered.com/app/1262540/Need_for_Speed/).  
+[Google Fonts](https://fonts.google.com/) are being used within this project. For commerical use, please check for licensing!
