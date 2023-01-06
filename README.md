@@ -1,6 +1,5 @@
 # alt:V Open Source Speedometer Collection
-**[This collection](https://github.com/MyHwu9508/altv-os-speedometer-collection)** is made for **[alt:V](https://altv.mp/)**.
-This resource provides some basic implementation of speedometers in alt:V.  
+**[This collection](https://github.com/MyHwu9508/altv-os-speedometer-collection)** is made for **[alt:V](https://altv.mp/)** and provides some basic implementation of speedometers in alt:V.  
 Special thanks to **[tomatenbaumful](https://github.com/tomatenbaumful)** for developing the svg content for this resource! :heart:
 
 ## Features
@@ -39,7 +38,7 @@ speedometerType: 0 //Change the speedometer type 0=Forza5, 1=Forza4, 2=NFS2015
 ```
 
 ### Console command example
-Adjust the refresh rate
+Adjust the refresh rate to 90 fps
 ```
 fps 90
 ```
